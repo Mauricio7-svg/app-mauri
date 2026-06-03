@@ -43,7 +43,7 @@ password.value = '';
 <div class="card-body p-4">
 <form @submit.prevent="handleLogin">
 <div class="mb-3">
-<label class="form-label fw-bold">Usuario Docente</label>
+<label class="form-label fw-bold">Usuario Docenteww</label>
 <input
 v-model="username"
 type="text"
